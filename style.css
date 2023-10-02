@@ -131,7 +131,7 @@ html {
 .about-section h1 {
   color: var(--white-color);
   text-align: center;
-  padding-top: 50px;
+  padding-top: 35px;
   font-size: 2.2rem;
   position: relative;
 }
@@ -172,7 +172,7 @@ html {
 .services-section h1 {
   color: var(--white-color);
   text-align: center;
-  padding-top: 50px;
+  padding-top: 35px;
   font-size: 2.2rem;
   position: relative;
   margin-bottom: 100px;
@@ -226,7 +226,7 @@ html {
 .testimonials-section h1 {
   color: var(--white-color);
   text-align: center;
-  padding-top: 40px;
+  padding-top: 50px;
   font-size: 2.2rem;
   position: relative;
 }
