@@ -467,7 +467,7 @@ html {
   }
   .testimonials-section h1 {
     font-size: 1.5rem;
-    padding-top: 120px;
+    padding-top: 35px;
   }
   .testimonials-main {
     gap: 1.5rem;
@@ -505,9 +505,7 @@ html {
   }
   .footer-col {
     text-align: center;
-  }
-  .footer-main:nth-child(3) {
-    display: none;
+    margin: 18px 0px;
   }
   .footer-col h4 {
     font-size: 1.1rem;
