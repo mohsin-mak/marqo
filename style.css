@@ -246,15 +246,15 @@ html {
   padding-top: 9px;
 }
 .testimonials-main {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-  gap: 2rem;
+  displa: flex;
+  justify-content: space-between;
   margin-top: 100px;
 }
 .testimonial {
   background: rgba(255, 255, 255, 0.1);
   text-align: center;
   padding: 20px;
+  margin-bottom: 25px;
   border-radius: 5px;
   cursor: pointer;
   transition: transform 0.5s;
