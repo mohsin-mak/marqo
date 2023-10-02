@@ -131,7 +131,7 @@ html {
 .about-section h1 {
   color: var(--white-color);
   text-align: center;
-  padding-top: 5%;
+  padding-top: 50px;
   font-size: 2.2rem;
   position: relative;
 }
@@ -172,7 +172,7 @@ html {
 .services-section h1 {
   color: var(--white-color);
   text-align: center;
-  padding-top: 5%;
+  padding-top: 50px;
   font-size: 2.2rem;
   position: relative;
   margin-bottom: 100px;
@@ -226,7 +226,7 @@ html {
 .testimonials-section h1 {
   color: var(--white-color);
   text-align: center;
-  padding-top: 5%;
+  padding-top: 40px;
   font-size: 2.2rem;
   position: relative;
 }
@@ -293,7 +293,7 @@ html {
 .footer-section h1 {
   color: var(--white-color);
   text-align: center;
-  padding-top: 5%;
+  padding-top: 50px;
   font-size: 2.2rem;
   position: relative;
 }
@@ -453,15 +453,12 @@ html {
     font-size: 10px;
   }
   .service i {
-    font-size: 16px;
-    margin-bottom: 12px;
+    font-size: 20px;
+    margin-bottom: 5px;
   }
   .service h2 {
     font-weight: 600;
-    margin-bottom: 8px;
-  }
-  .testimonials-section {
-    height: 100%;
+    margin-bottom: 5px;
   }
   .testimonials-section h1 {
     font-size: 1.5rem;
