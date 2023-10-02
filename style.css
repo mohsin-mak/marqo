@@ -447,7 +447,7 @@ html {
   }
   .service-main {
     grid-row-gap: 16px;
-    padding: 18px;
+    padding: 25px;
   }
   .service {
     padding: 8px;
@@ -465,9 +465,9 @@ html {
     font-size: 1.5rem;
   }
   .testimonials-main {
-    gap: 1.8rem;
-    margin-top: 20px;
-    padding: 18px;
+    gap: 1.6rem;
+    margin-top: 18px;
+    padding: 25px;
   }
   .testimonials-section {
     padding: 20px;
